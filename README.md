@@ -2,6 +2,8 @@ Alexander's Macro Research
 This repository contains my research reports on global macro and commodities.
 
 ## About Me
+Macro analyst specialising in cross-asset research across FX and commodities | Sydney (open to Hong Kong)
+
 
 ### Latest Report — April 2026
 **Gold's Safe Haven Narrative is Broken: Interest Rates Now Dominate**
@@ -12,3 +14,4 @@ This repository contains my research reports on global macro and commodities.
 **Trade idea:** Short gold on rallies toward $4,950–$5,000 resistance.
 
 **Full report:** [Download PDF]
+[Macro.pdf](https://github.com/user-attachments/files/26956171/Macro.pdf)
