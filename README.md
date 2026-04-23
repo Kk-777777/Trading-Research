@@ -1,9 +1,3 @@
-Alexander's Macro Research、
-
-This repository contains my research reports on global macro and commodities.
-
-
-
 
 # Macro Trading Research — Gold / XAU (April 2026)
 
