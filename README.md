@@ -19,4 +19,6 @@ Entry confirmed by rising 10Y yield or hawkish dot plot shift.
 [Macro.pdf](https://github.com/user-attachments/files/26994850/Macro.pdf)
 
 ---
-Alexander Xuyuan Cao · alexanderxycao@gmail.com
+**Alexander Xuyuan Cao**  
+Macro Analyst | FX & Commodities  
+alexanderxycao@gmail.com
