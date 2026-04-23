@@ -1,8 +1,6 @@
 Alexander's Macro Research
 This repository contains my research reports on global macro and commodities.
 
-## About Me
-Macro analyst specialising in cross-asset research across FX and commodities | Sydney (open to Hong Kong)
 
 
 
