@@ -1,5 +1,5 @@
-**Macro Trading Research — USD/JPY · FX (May 2026)
-Hormuz Strait Tension Forces BoJ's Hand — Oil Shock Breaks the Hedge**
+# Macro Trading Research — USD/JPY · FX (May 2026)
+**Hormuz Strait Tension Forces BoJ's Hand — Oil Shock Breaks the Hedge**
 
 Short USD/JPY thesis based on transmission analysis of the Hormuz oil shock through Japan's imported inflation to BoJ policy response.
 
